@@ -1,0 +1,17 @@
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\WSR_BONCH.exe.config
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\WSR_BONCH.exe
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\WSR_BONCH.pdb
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\MySql.Data.dll
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\Google.Protobuf.dll
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\BouncyCastle.Crypto.dll
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\Renci.SshNet.dll
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\bin\Debug\MySql.Data.xml
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.csprojAssemblyReference.cache
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.LogINForm.resources
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.Properties.Resources.resources
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.SignUPForm.resources
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.csproj.GenerateResource.cache
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.csproj.CoreCompileInputs.cache
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.csproj.CopyComplete
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.exe
+E:\Development\WSR\APPS\WSR_BONCH\WSR_BONCH\obj\Debug\WSR_BONCH.pdb
